@@ -1,5 +1,6 @@
 #  About Me:
-python developer
+:) I’m a python developer 
+🔭 I’m currently working on login/register project with django 
 
 
 ## 🌐 Socials:
