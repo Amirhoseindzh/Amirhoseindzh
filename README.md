@@ -1,7 +1,7 @@
 #  About Me:
 :) I’m a python developer
   
-🔭 I’m currently working on login/register by social accounts with django 
+🔭 I’m currently working on Telegram Bot 
 
 
 ## 🌐 Socials:
