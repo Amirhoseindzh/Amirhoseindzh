@@ -65,15 +65,6 @@ I’m comfortable learning fast, asking questions, and taking ownership of small
 
 ## 📊 GitHub Stats & Activity
 
-</div>
-
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Amirhoseindzh&show_icons=true&include_all_commits=true&count_private=true&hide_border=true"
-    alt="GitHub stats"
-  />
-</div>
-
 <br>
 
 <div align="center">
@@ -85,28 +76,12 @@ I’m comfortable learning fast, asking questions, and taking ownership of small
 
 <br>
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirhoseindzh&layout=compact&hide_border=true"
-    alt="Top languages"
-  />
-</div>
-
 <br>
 
 <div align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=Amirhoseindzh&theme=github-compact"
     alt="Contribution graph"
-  />
-</div>
-
-<br>
-
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=Amirhoseindzh&theme=flat&no-frame=true&column=6"
-    alt="GitHub trophies"
   />
 </div>
 
